@@ -1,5 +1,7 @@
 # LuckCid
-[img]http://i.imgur.com/eh06z4V.png[/img]
+
+![image](http://i.imgur.com/eh06z4V.png})
+
 
 #Description
 
