@@ -12,11 +12,11 @@ LukCid is console ID generator for PS3 compatible with Windows,Linux & Mac. This
 
 #TO DO 
 
-1.Randomly generate 3 zero's or 3 one's at index 12 to 14. 
-1. Make a dll that will work with python and allow you to connect with Capi's & TMapi's from the .Net Framework.
-2. Allow to save generated cid's to a txt file. 
-3. Make a longer Label for generated cid's.
-4. Improve graphics.
+1. Randomly generate 3 zero's or 3 one's at index 12 to 14. 
+2. Make a dll that will work with python and allow you to connect with Capi's & TMapi's from the .Net Framework.
+3. Allow to save generated cid's to a txt file. 
+4. Make a longer Label for generated cid's.
+5. Improve graphics.
 
 
 #Usage 
