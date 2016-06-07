@@ -16,6 +16,7 @@ DISCLAIMER: This is only for educational purposes. Do not use this for illegal p
  
 1. Make a dll that will work with python and allow you to connect with [CCapi's](http://www.enstoneworld.com/articles/view/15/ControlConsole_API) & TMapi's from the .Net Framework. 
 2. Improve graphics.
+3. Convert .py to exe
 
 
 #Supported machines 
