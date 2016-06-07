@@ -1,11 +1,8 @@
 # LuckCid
 
-
-
-
 #Description
 
-LukCid is console ID generator for PS3 compatible with Windows,Linux & Mac. This program will generate a 32 digit and letter combination of 11 specific starting numbers, a number 1, 2 specific zero's, a number 8, one random number or letter, 3 zero's, one random number or letter, a number 1 and the rest are random until it reaches 32 characters long. 
+LukCid is console ID generator for PS3 compatible with Windows,Linux & Mac. This program will generate a 32 digit and letter combination of 11 specific starting numbers, a number 1, 2 specific zero's, a number 8, one random number or letter, 3 zero's, one random number or letter, a number 1 and the rest are random until it reaches 32 characters long. Every generated CID will be saved to a text file in the folder holding the program.
 
 DISCLAIMER: This is only for educational purposes. Do not use this for illegal purposes.
 
