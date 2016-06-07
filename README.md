@@ -24,6 +24,6 @@ DISCLAIMER: This is only for educational purposes. Do not use this for illegal p
 Windows, Linux & Mac    
 
 #Usage
- Download Python 3.0  or higher
+ Download any version of python but for python 2+ use the python2 script and for python 3+ use the python3 script
 
  `Python lukcid.py`
