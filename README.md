@@ -26,4 +26,5 @@ Windows, Linux & Mac
 #Usage
  Download any version of python but for python 2+ use the python2 script and for python 3+ use the python3 script
 
- `Python lukcid.py`
+ `Python lukcid2.py`
+ `Python lukcid3.py`
