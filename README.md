@@ -18,13 +18,11 @@ DISCLAIMER: This is only for testing purposes. Do not use this for illegal purpo
 2. Improve graphics.
 
 
-#Usage 
+#Supported machines 
 
 Windows, Linux & Mac    
 
- Download Python 2.7 or higher
+#Usage
+ Download Python 3.0  or higher
 
  `Python lukcid.py`
-
-
-
