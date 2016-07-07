@@ -8,7 +8,7 @@ from Tkinter import *
 
 # Returns a combination of letter & digits
 def gen():
-    return random.choice(string.ascii_letters + string.digits)
+    return random.choice(list('abcdef' + string.digits))
 
 
 # prints the first digits until %, and starts printing random generation from the gen function and converts to upper case
