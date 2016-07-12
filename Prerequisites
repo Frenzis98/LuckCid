@@ -1,0 +1,32 @@
+Prerequisites
+
+============
+  WINDOWS 
+============
+The Python Windows Installers include Tcl/Tk Tkinter. These are essentially a one-click install of everything needed.
+https://www.python.org/downloads/
+
+=====================
+   Ubuntu / Debian
+=====================
+
+Python 2 
+---------
+sudo apt-get install python-tk
+
+Python 3 
+----------
+sudo apt-get install python3-tk
+
+=====================================
+ RedHat / RHEL / CentOS / Oracle Linux
+======================================
+
+Python 2
+-----------
+
+sudo yum install tkinter
+
+Python 3
+----------
+yum install python3-tkinter
